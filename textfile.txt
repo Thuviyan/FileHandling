@@ -1,0 +1,4 @@
+I'm being written to a textfile.txt
+and i am a char array being written to a textfile.txt
+I'm being written to a textfile.txt
+and i am a char array being written to a textfile.txt
